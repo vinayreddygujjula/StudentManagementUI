@@ -1,4 +1,4 @@
-# studentmanagementui
+# Student Management UI
 
 ## Project setup
 ```
